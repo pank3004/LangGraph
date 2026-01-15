@@ -29,10 +29,10 @@ client = MultiServerMCPClient(
         "C:\\Users\\panka\\OneDrive\\Desktop\\local mcp maths server\\main.py"
       ]
     },
-        # "expense": {
-        #     "transport": "streamable_http",  # if this fails, try "sse"
-        #     "url": "https://splendid-gold-dingo.fastmcp.app/mcp"
-        # }
+        "expense": {
+            "transport": "streamable_http",  # if this fails, try "sse"
+            "url": "https://mymymyremote.fastmcp.app/mcp"
+        }
     }
 )
 
